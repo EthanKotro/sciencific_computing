@@ -1,10 +1,9 @@
-# Python Scripts for Learning Data Types, Control Structures, and Modularity
+# Scientific Computing
+Assignments and projects from Scientific Computing class
 
-## Objective
+## Objectives
 
-This repository contains Python scripts demonstrating fundamental programming concepts:
-
-1. **datatypes.py** - Explores Python data types, their conversions, and type checking.
+1. **datatypes.py** - Shows the variety of Python data types how they are converted and checking their class types.
 2. **control_structures.py** - Demonstrates conditional statements, loops, and function usage.
 3. **modular_functions.py** - Implements modular functions for calculating areas of different shapes.
 
@@ -16,17 +15,11 @@ This repository contains Python scripts demonstrating fundamental programming co
 python datatypes.py
 ```
 
-- This script prints variable types, converts integer to float and vice versa.
-
 ### Running `control_structures.py`
 
 ```bash
 python control_structures.py
 ```
-
-- Asks for an integer input and determines if it is even or odd.
-- Generates and prints even numbers from 1 to 50.
-- Prints numbers from 10 down to 1 using a while loop.
 
 ### Running `modular_functions.py`
 
@@ -34,12 +27,13 @@ python control_structures.py
 python modular_functions.py
 ```
 
-- Calls a function to compute the area of a circle, rectangle, and triangle.
 
 ## What I Learned
 
-- Understanding and using different Python data types effectively.
-- Implementing control structures such as loops and conditional statements.
-- Writing modular and reusable functions for better code structure.
-- Using Python’s built-in functions like `type()`, `math.pi`, and user input handling.
-- Structuring a GitHub repository with clear documentation in `README.md`.
+- The different data types in Python and how they are converted to other types, and telling the class it belongs to.
+
+- Using control structures like for loops, while loops and conditions like if and dealing with decrement.
+- Defining and using functions and using modularity to ensure reusability of code.
+- Using Python’s built-in functions like `type()`, `math.pi`, and handling user input.
+- Documenting and formating in Github `README.md` .
+- Initializing and commiting a git repository from local device through the terminal.
